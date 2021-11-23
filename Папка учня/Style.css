@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+*{
+	Margin: 5px;
+	Padding: 5px;
+}
+h1{font-family: "Arial Black", "Arial Bold"; } 
+	h3 { font-family: "Arial Black", "Arial Bold";} 
+	h2 { font-family: "Arial Black", "Arial Bold";
+	color: white;} 
+	p { font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+	blockquote { font-family: "Arial Black", "Arial Bold"; } 
+	pre { font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+}
+h1{
+	color: white;
+}
+blockquote{
+	color: white;
+}
+#sitename{
+		color: red;
+}
+#Bio1 h1{
+ text-shadow: 4px 4px 30px rgba(150, 150, 150, 1);
+}
+#BioPh1{
+	padding: 10px;
+	display: flex;
+	justify-content: space-arround;
+	border-style: solid;
+	border-color: black;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+#BioPh2{
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	border-style: solid;
+	border-color: black;
+	background: rgba(0, 0, 0, 0.4);
+}
+#Citate{
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	border-style: solid;
+	border-color: black;
+	background: rgba(0, 0, 0, 0.4);
+}
+#Citate cite{
+	color: white;
+	font-family: "Arial Black", "Arial Bold"
+}
+#Citate blockquote{
+	Font-size: 20px;
+}
+body{
+	background-image: url(https://www.publicdomainpictures.net/pictures/40000/velka/background-1366644919rfW.jpg);
+	background: cover
+}
+#Avtor{
+		Font-size: 60px;
+}
+#Footer{
+	padding: 0px;
+	display: flex;
+	justify-content: space-arround;
+	border-style: solid;
+	border-color: black;
+	background: rgba(0, 0, 0, 1);
+	Font-size: 10px;
+}
+#Footer a{
+	padding: 0px;
+	display: flex;
+	justify-content: space-arround;
+	border-style: solid;
+	border-color: black;
+	background: rgba(0, 0, 0, 1);
+	Font-size: 25px;
+	color: white;
+}
